@@ -11,9 +11,15 @@
   </ul></strong>
 
 
+# Deploying
+
+**<p>You can access the project live below.</p>**
+
+<a href="https://calculator-app-web-site.netlify.app/">https://calculator-app-web-site.netlify.app/</a>
 
 
-
+<br>
+<br>
 
 
 
